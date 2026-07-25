@@ -16,4 +16,10 @@ Once you've done that, you will see all my mods in your Zen Mods tab like this:
 
 <img width="899" height="926" alt="{42148F10-AB0D-45B7-B2A6-61754D7A7CB4}" src="https://github.com/user-attachments/assets/effaca13-6b0a-4820-a035-ae488a80f87a" />
 
-Now we're gonna set up a custom font. You can use whichever you like the most, the process is the same, but I'll be using [JetBrainsMono Nerd Font Mono](https://github.com/GIT-Oxone/W11-Dotfiles/blob/3aa7b8ebe60a936764a7c8fcc5e63ea3e1c6c110/Zen/JetBrainsMonoNerdFontMono-Regular.ttf). Just double-click in your File Explorer, install it on Windows, then go to Zen Mods tab, click on the gear icon of the "Custom uiFont" mod, and click "Custom". In Font Family, put this: JetBrainsMono Nerd Font Mono, and click OK. Now you should see your browser with a cooler aspect. 
+Now we're gonna set up a custom font. You can use whichever you like the most, the process is the same, but I'll be using [JetBrainsMono Nerd Font Mono](https://github.com/GIT-Oxone/W11-Dotfiles/blob/3aa7b8ebe60a936764a7c8fcc5e63ea3e1c6c110/Zen/JetBrainsMonoNerdFontMono-Regular.ttf). Just double-click in your File Explorer, install it on Windows, then go to Zen Mods tab, click on the gear icon of the "Custom uiFont" mod, and click "Custom". In Font Family, put this: **JetBrainsMono Nerd Font Mono**, and click OK. Now you should see your browser with a cooler aspect. 
+
+Now we'll set up transparency and background colour. In "Zen Mods" tab, click the gear icon of the "Transparent Zen" mod, and copy this settings:
+
+<img width="675" height="323" alt="{602D5C8F-7F5E-4570-BD30-3ACD3953BAB1}" src="https://github.com/user-attachments/assets/e3f1ffef-c961-42c8-a48c-e416b21c2a49" />
+
+You shouldn't touch anything else unless you know what you're doing, or wanna experiment with the mods settings. It's up to you. 
