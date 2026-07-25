@@ -1,4 +1,4 @@
-# W11-Dotfiles
+# WIN 11 | Dotfiles 
 These are my dotfiles for Windows ricing. (Windows 11 25H2)
 
 # Overview:
