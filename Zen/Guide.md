@@ -31,3 +31,9 @@ To have those icons there as me, they're like bookmarks in Chrome. These are cal
 <img width="342" height="348" alt="{8C4FC6D0-B4F3-439F-B3B4-7D48F734ED0B}" src="https://github.com/user-attachments/assets/6f42be89-41e9-445a-b117-c40cec08cb23" />
 
 Now, you must install [Zen Internet Extension](https://addons.mozilla.org/en-US/firefox/addon/zen-internet/). This is for having our background colour integrated when we visit websites. 
+
+<img width="296" height="214" alt="image" src="https://github.com/user-attachments/assets/f5106aeb-8117-45f6-b7a9-c9dd46dc6627" />
+
+Click on this button, and then in the extension. Now set it up, click on agree, then **I RECOMMEND SELECTING "ONLY APPLY TO WEBSITES I CHOOSE"** because some community themes can react weird with the CSS of some pages. Fetch the latest themes and then you're done. Now **RESTART YOUR BROWSER** because it might not load websites, as I've just mentioned. 
+
+Once you restarted, go to YouTube and click again on the Extensions button. Enable "My Boosts, and copy this settings: <img width="234" height="624" alt="{58CFDCA6-5D38-433F-AE7B-6A4085342E0E}" src="https://github.com/user-attachments/assets/9e71c1ae-5b0b-40a4-bce4-a880b4ab4e76" />
