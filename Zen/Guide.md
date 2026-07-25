@@ -22,7 +22,7 @@ Now we'll set up transparency and background colour. In "Zen Mods" tab, click th
 
 <img width="675" height="323" alt="{602D5C8F-7F5E-4570-BD30-3ACD3953BAB1}" src="https://github.com/user-attachments/assets/e3f1ffef-c961-42c8-a48c-e416b21c2a49" />
 
-You shouldn't touch anything else unless you know what you're doing, or wanna experiment with the mods settings. It's up to you. 
+**You shouldn't touch anything else unless you know what you're doing, or wanna experiment with the mods settings. It's up to you.**
 
 To have those icons there as me, they're like bookmarks in Chrome. These are called "Essentials" in Zen. You can have up to 12. To do it, just open a YouTube page (for example), right click and click "Add to Essentials", now it should appear.
 
@@ -30,3 +30,4 @@ To have those icons there as me, they're like bookmarks in Chrome. These are cal
 
 <img width="342" height="348" alt="{8C4FC6D0-B4F3-439F-B3B4-7D48F734ED0B}" src="https://github.com/user-attachments/assets/6f42be89-41e9-445a-b117-c40cec08cb23" />
 
+Now, you must install [Zen Internet Extension](https://addons.mozilla.org/en-US/firefox/addon/zen-internet/). This is for having our background colour integrated when we visit websites. 
