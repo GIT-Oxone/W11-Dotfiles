@@ -8,7 +8,7 @@ If you plan to use this browser for a long time, make it your default browser.
 
 # Customization of Zen:
 
-Once you are on this screen, click on the three dots in the top-right corner and go to Settings. In Settings, go to the "Zen Mods" section and click on the "Import Mods" button. Download and import this file --> https://github.com/GIT-Oxone/W11-Dotfiles/blob/6ca64afc96a4ba2d7e028a615c7a8891ba3a9c6f/Zen/ZenModsExport.json
+Once you are on this screen, click on the three dots in the top-right corner and go to Settings. In Settings, go to the "Zen Mods" section and click on the "Import Mods" button. Download and import this file --> [Zen Mods](https://github.com/GIT-Oxone/W11-Dotfiles/blob/6ca2afc96a4ba2d7e028a615c7a8891ba3a9c6f/Zen/ZenModsExport.json)
 
 <img width="1920" height="1035" alt="{5659B14F-B56D-487E-AFA6-9EE330DBC5F6}" src="https://github.com/user-attachments/assets/756782f5-ac6c-4290-b710-9935d231f3d2" />
 
